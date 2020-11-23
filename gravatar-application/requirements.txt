@@ -1,0 +1,2 @@
+libgravatar==0.2.4
+Flask==1.1.2
